@@ -4,7 +4,7 @@
      *Function: Simple Java application to demonstrate the behavior 
      *of different data types, arithmetic, concatenation, and output results
      *
-     *Programmed By: Karoline Foster, Dr. Anwar Ahmad (March 20, 2015)
+     *Programmed By: karofos, Dr. Anwar Ahmad (March 20, 2015)
      *
      *Based upon code taken from "Java Programming" by Joyce Farrell
     *
